@@ -1,5 +1,13 @@
 ## AI for Improving Road Safety in Bangladesh (An Omdena Project)
 
+### Demo
+
+A demo video of the Streamlit implementation of the portion of the whole project done by me is included here. Please feel free to watch. 
+
+[![Watch Demo Here](https://github.com/SumaiaParveen/Omdena-AI-for-Road-Safety-In-Bangladesh/blob/main/steamlit.JPG)](https://www.pexels.com/video/foods-to-avoid-for-diabetic-people-6824076/ "Everything Is AWESOME")
+
+### About the project
+
 Road safety is a major concern in Bangladesh. An estimate states that 55 people are killed in road crashes every day, and that vulnerable road users including walkers, motorcyclists, and unsafe and informal public transportation users account for more than 80% of road traffic deaths. 
 
 The goal of the project was to:
@@ -9,7 +17,7 @@ The goal of the project was to:
 - Perform exploratory data analysis
 - Outline an AI-driven solution to improve road safety (Time-Series Forecast and Classification)
 
-I was able to contribute by data collection (webscraped two newspapers: [Prothom Alo](https://en.prothomalo.com/) and [Dhaka Tribune](https://www.dhakatribune.com/) and Google News), exploratory data analysis and creating dashboards (see links below), time-series forecast and time-series classification (see the repo notebooks). 
+I was able to contribute by data collection (webscraped two newspapers: [Prothom Alo](https://en.prothomalo.com/) and [Dhaka Tribune](https://www.dhakatribune.com/) and Google News), exploratory data analysis and creating dashboards (see links below), time-series forecast and time-series classification (see the repo notebooks) and wrap up the whole pipeline on Streamlit to be deployed on cloud. 
 
 ### What's inside the notebooks?
 
@@ -37,11 +45,11 @@ I was able to contribute by data collection (webscraped two newspapers: [Prothom
 
 - [Dhaka Tribune](https://nbviewer.jupyter.org/github/SumaiaParveen/Omdena-AI-for-Road-Safety-In-Bangladesh/blob/main/Folium%20Heatmap%20with%20Time/omdena-dhaka-tribune-map.ipynb), [Daily Observer](https://nbviewer.jupyter.org/github/SumaiaParveen/Omdena-AI-for-Road-Safety-In-Bangladesh/blob/main/Folium%20Heatmap%20with%20Time/omdena-daily-observer-map.ipynb)
 
-A demo video of the Streamlit implementation of the portion of the whole project done by me is included here. Please feel free to watch. 
+#### Flourish Visualizations
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.pexels.com/video/foods-to-avoid-for-diabetic-people-6824076/)
+- [Bar chart race showing top 15 days with most death cause by road accidents](https://public.flourish.studio/visualisation/6687631/)
+- [Complete statistical analysis dashboard](https://public.flourish.studio/story/941600/)
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://www.pexels.com/video/foods-to-avoid-for-diabetic-people-6824076/ "Everything Is AWESOME")
 
 
 
