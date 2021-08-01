@@ -39,6 +39,12 @@ I was able to contribute by data collection (webscraped two newspapers: [Prothom
 
 A demo video of the Streamlit implementation of the portion of the whole project done by me is included here. Please feel free to watch. 
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.pexels.com/video/foods-to-avoid-for-diabetic-people-6824076/)
+
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://www.pexels.com/video/foods-to-avoid-for-diabetic-people-6824076/ "Everything Is AWESOME")
+
+
+
 
 
 
