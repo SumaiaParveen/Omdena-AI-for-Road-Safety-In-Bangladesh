@@ -4,7 +4,7 @@
 
 A demo video of the Streamlit implementation of the portion of the whole project done by me is included here. Please feel free to watch. 
 
-[![Watch Demo Here](https://github.com/SumaiaParveen/Omdena-AI-for-Road-Safety-In-Bangladesh/blob/main/steamlit.JPG)](https://www.pexels.com/video/foods-to-avoid-for-diabetic-people-6824076/ "Everything Is AWESOME")
+[![Watch Demo Here](https://github.com/SumaiaParveen/Omdena-AI-for-Road-Safety-In-Bangladesh/blob/main/steamlit.JPG)](https://www.pexels.com/video/9013563/)
 
 ### About the project
 
