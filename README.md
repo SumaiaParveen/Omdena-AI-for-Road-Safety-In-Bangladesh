@@ -28,6 +28,7 @@ I was able to contribute by data collection (webscraped two newspapers: [Prothom
 - [Greykites](https://nbviewer.jupyter.org/github/SumaiaParveen/Omdena-AI-for-Road-Safety-In-Bangladesh/blob/main/Time%20Series%20Forecast/Greykites%20for%20TS%20Forecast.ipynb)
 - [Kats: SARIMA & Prophet](https://github.com/SumaiaParveen/Omdena-AI-for-Road-Safety-In-Bangladesh/blob/main/Time%20Series%20Forecast/Kats-SARIMA%20%26%20Prophet.ipynb)
 - [PyCaret TS Analysis](https://github.com/SumaiaParveen/Omdena-AI-for-Road-Safety-In-Bangladesh/blob/main/Time%20Series%20Forecast/PyCaret%20TS.ipynb)
+- [NeuralProphet](https://github.com/SumaiaParveen/Omdena-AI-for-Road-Safety-In-Bangladesh/blob/main/Time%20Series%20Forecast/NeuralProphet%20for%20TS%20Analysis.ipynb)
 
 #### Times-Series Classification
 
