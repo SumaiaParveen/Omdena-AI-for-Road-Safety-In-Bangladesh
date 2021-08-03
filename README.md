@@ -1,10 +1,10 @@
 ## AI for Improving Road Safety in Bangladesh (An Omdena Project)
 
-### Demo
+### [Demo](https://youtu.be/AAYv1Abv7gk)
 
 A demo video of the Streamlit implementation of the portion of the whole project done by me is included here. Please feel free to watch. 
 
-[![Watch Demo Here](https://github.com/SumaiaParveen/Omdena-AI-for-Road-Safety-In-Bangladesh/blob/main/steamlit.JPG)](https://www.pexels.com/video/9013563/)
+[![Watch Demo Here](https://github.com/SumaiaParveen/Omdena-AI-for-Road-Safety-In-Bangladesh/blob/main/steamlit.JPG)](https://youtu.be/AAYv1Abv7gk)
 
 ### About the project
 
